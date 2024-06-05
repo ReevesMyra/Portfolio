@@ -1,4 +1,3 @@
-sample_portfolio.js
 
 // These functions open and close the contact form
 function openForm() {
